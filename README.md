@@ -15,3 +15,6 @@ SSL Offloading
 Logging and Monitoring
 Http/2 Support
 Cost Saving
+
+# more details read
+-https://medium.com/@hasanmcse/publish-net-web-api-in-nginx-4b3cfa2b539c
